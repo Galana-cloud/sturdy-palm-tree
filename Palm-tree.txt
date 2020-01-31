@@ -3,6 +3,7 @@ Red
 Green
 Yellow
 Palm oil
+Blue
 Pink
 Brown this is the color of palm trees.
 And the palm oil
