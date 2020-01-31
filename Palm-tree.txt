@@ -1,6 +1,6 @@
 The palm-tree.
-
-1.Green
-2.Yellow
-3.Pink
-4.Brown this is the color of plam trees.
+Red
+Green
+Yellow
+Pink
+Brown this is the color of plam trees.
